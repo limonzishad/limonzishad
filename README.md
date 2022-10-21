@@ -30,9 +30,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-
 <hr>
-<!-- <br/> -->
 
 ***FRAMEWORKS/LIBRARIES/MARKUP***
 
@@ -58,12 +56,12 @@
 
 ***SOFTWARES/TOOLS***
 
-<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=blue=IwAR2BZ4XUs6cRwmzSNNb8ev722N1b5-92Qb1bUel_w3ErkY5Em_RXjpdD1oQ"/>
+<!-- <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=blue=IwAR2BZ4XUs6cRwmzSNNb8ev722N1b5-92Qb1bUel_w3ErkY5Em_RXjpdD1oQ"/> -->
 <img src="https://img.shields.io/badge/EclipseIde-2C2255?style=for-the-badge&logo=eclipseide&logoColor=blue=IwAR2BZ4XUs6cRwmzSNNb8ev722N1b5-92Qb1bUel_w3ErkY5Em_RXjpdD1oQ"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-gray?style=for-the-badge&logo=visualstudio&logoColor=blue"/>
 
 
