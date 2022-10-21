@@ -19,7 +19,7 @@
 
 <div>
 
-***PROGRAMMING LANGUAGES***
+### `PROGRAMMING LANGUAGES`
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 <hr>
 
-***FRAMEWORKS/LIBRARIES/MARKUP***
+### `FRAMEWORKS/LIBRARIES/MARKUP`
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -46,7 +46,7 @@
 
 <hr>
 
-***DATABASES***
+### `DATABASES`
 
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDb-black?style=for-the-badge&logo=mongodb&logoColor=blue=IwAR2BZ4XUs6cRwmzSNNb8ev722N1b5-92Qb1bUel_w3ErkY5Em_RXjpdD1oQ"/>
@@ -54,7 +54,7 @@
 
 <hr>
 
-***SOFTWARES/TOOLS***
+### `SOFTWARES/TOOLS`
 
 <!-- <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=blue=IwAR2BZ4XUs6cRwmzSNNb8ev722N1b5-92Qb1bUel_w3ErkY5Em_RXjpdD1oQ"/> -->
 <img src="https://img.shields.io/badge/EclipseIde-2C2255?style=for-the-badge&logo=eclipseide&logoColor=blue=IwAR2BZ4XUs6cRwmzSNNb8ev722N1b5-92Qb1bUel_w3ErkY5Em_RXjpdD1oQ"/>
