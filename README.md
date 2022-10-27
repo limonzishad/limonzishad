@@ -26,9 +26,9 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-4B4B77?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-0A9EDC?style=for-the-badge&logo=python&logoColor=blue=IwAR2BZ4XUs6cRwmzSNNb8ev722N1b5-92Qb1bUel_w3ErkY5Em_RXjpdD1oQ"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Python-0A9EDC?style=for-the-badge&logo=python&logoColor=blue=IwAR2BZ4XUs6cRwmzSNNb8ev722N1b5-92Qb1bUel_w3ErkY5Em_RXjpdD1oQ"/> -->
+<!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> -->
 
 <hr>
 
